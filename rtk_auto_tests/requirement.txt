@@ -1,0 +1,8 @@
+selenium
+pytest
+pytest-selenium
+webdriver-manager
+termcolor
+pytest-html
+pytest-metadata
+requests
